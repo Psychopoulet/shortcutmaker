@@ -125,7 +125,7 @@ namespace shortcutmaker
                         Console.WriteLine("-CTF | --commandtofile : print the command sended in the file");
                         Console.WriteLine("-OP | --originpath : origin path (required)");
                         Console.WriteLine("-SCDI | --shortcutdirectory : shortcut directory (if not, origin's path directory) (can be equal to 'desktop', 'startmenu', 'startup')");
-                        Console.WriteLine("-SCWDI | --shortcutworkingdirectory : shortcut directory (if not, =shortcutdirectory)");
+                        Console.WriteLine("-SCWDI | --shortcutworkingdirectory : working shortcut directory (if not, =shortcutdirectory)");
                         Console.WriteLine("-SCN | --shortcutname : short cutname (if not, origin's name + '.lnk')");
                         Console.WriteLine("-SCDE | --shortcutdescription : shortcut description");
                         Console.WriteLine("-SCI | --shortcuticon : shortcut icon (if not, origin's icon)");
