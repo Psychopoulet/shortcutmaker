@@ -1,0 +1,4 @@
+Setup/Debug/*
+Setup/Release/*
+shortcutmaker/bin/*
+shortcutmaker/obj/*

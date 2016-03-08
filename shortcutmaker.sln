@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shortcutmaker", "shortcutmaker\shortcutmaker.csproj", "{D442D1BA-B92C-40CA-80D0-D14E94D8C614}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{5B6C9735-B7FA-4F70-BD4E-0510A5128168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D442D1BA-B92C-40CA-80D0-D14E94D8C614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D442D1BA-B92C-40CA-80D0-D14E94D8C614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D442D1BA-B92C-40CA-80D0-D14E94D8C614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D442D1BA-B92C-40CA-80D0-D14E94D8C614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6C9735-B7FA-4F70-BD4E-0510A5128168}.Debug|Any CPU.ActiveCfg = Debug
+		{5B6C9735-B7FA-4F70-BD4E-0510A5128168}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
